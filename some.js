@@ -1,1 +1,1 @@
-const passw = 12345;
+const passw = 'lolkek123';
