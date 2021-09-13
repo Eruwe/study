@@ -1,0 +1,1 @@
+const passw = 12345;
